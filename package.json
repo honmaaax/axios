@@ -68,9 +68,6 @@
     "url-search-params": "^0.6.1",
     "typescript": "^2.0.3"
   },
-  "browser": {
-    "./lib/adapters/http.js": "./lib/adapters/xhr.js"
-  },
   "typings": "./index.d.ts",
   "dependencies": {
     "follow-redirects": "1.0.0"
